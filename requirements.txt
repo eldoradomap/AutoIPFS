@@ -1,0 +1,2 @@
+Python3.x
+Requests==2.31.0
