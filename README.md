@@ -12,6 +12,10 @@ This project includes a Python script that monitors a specified file for changes
 
 - **CID Retrieval and Blockchain Integration**: After uploading the file, the script retrieves the Content Identifier (CID) from IPFS. This CID can be integrated into a smart contract to store the IPFS address of the uploaded file on a blockchain by storing the hash of the CID, enabling decentralized and tamper-proof record-keeping.
 
+## Capabilities 
+
+- **File Size**: Dependent upon your QuickNode plan
+
 ## QuickNode Compatibility
 
 This script is specifically designed for use with QuickNode's IPFS service. It follows the guidelines and specifications provided in QuickNode's API documentation to ensure seamless file uploads. Please note that this script may not be compatible with other IPFS providers without modifications. If you don't have a QuickNode account, you can create one at https://www.quicknode.com/
